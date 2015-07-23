@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "DD Cancellation Refund Reconciliation", "DD Cancellation Refund Reconciliation.rptproj", "{545905DB-0964-4A43-9D07-52ABDCE4DCEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{545905DB-0964-4A43-9D07-52ABDCE4DCEE}.Debug|Default.ActiveCfg = Debug
+		{545905DB-0964-4A43-9D07-52ABDCE4DCEE}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{545905DB-0964-4A43-9D07-52ABDCE4DCEE}.DebugLocal|Default.Build.0 = DebugLocal
+		{545905DB-0964-4A43-9D07-52ABDCE4DCEE}.Release|Default.ActiveCfg = Release
+		{545905DB-0964-4A43-9D07-52ABDCE4DCEE}.Release|Default.Build.0 = Release
+		{545905DB-0964-4A43-9D07-52ABDCE4DCEE}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
